@@ -1,4 +1,4 @@
-# eMark-internship-project
+# E-Mark-internship-project
 This project was developed during a two-month internship at E-Mark, the national operator of Armenia's product traceability system. It focuses on automating the trimming of DataMatrix codes based on the logic defined by each product group. The tool was successfully integrated into the company’s mobile application, where it simplifies the aggregation process during product scanning.
 Project Purpose
 The main objective of this project is to:
